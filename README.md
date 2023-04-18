@@ -1,4 +1,4 @@
-# Laboratiorio--Ts2
+# Laboratiorio--Ts1
 
 Solución a un problema usando operadores, y console.log(), para mostrarlo por la consola del navegador.
 
